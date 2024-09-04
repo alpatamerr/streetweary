@@ -1,6 +1,6 @@
 # streetweary 
 
-#### Technologies Used: Javascript, PostgreSQL, Express, React, Node.js, HTML5, CSS3 
+#### Technologies Used: Javascript, PostgreSQL, Express, React, Node.js, HTML5, CSS
 
 This is a mock clothing store app focused specifically around streetwear fashion. The site allows you to browse, add items to a cart, create an account, login, checkout, etc.
 To be continued...
