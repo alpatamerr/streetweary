@@ -1,8 +1,8 @@
 # streetweary 
 
-#### Technologies Used: Javascript, PostgreSQL, Express, React, Node.js, HTML5, CSS
+#### Technologies Used: Javascript, PostgreSQL, Express, React, Node.js, HTML, CSS
 
-This is a mock clothing store app focused specifically around streetwear fashion. The site allows you to browse, add items to a cart, create an account, login, checkout, etc.
+This is a mock clothing store app focused specifically on streetwear fashion. The site allows you to browse, add items to a cart, create an account, log in, checkout, etc.
 To be continued...
 
 ## Instructions
@@ -11,7 +11,7 @@ The following instructions are for local use only. Instructions that are necessa
 
 #### Database
 
-Create and connect to a database. I use Postbird for local databases, but anything, including the CLI, work perfectly fine. 
+Create and connect to a database. I use Postbird for local databases, but anything, including the CLI, works perfectly fine. 
 
 Copy and paste the contents of the **clothing-store.sql** file in the server/db directory to create all the necessary tables.
 
@@ -19,9 +19,9 @@ Use the **products.sql** file in the same directory to insert some items into th
 
 #### Server
 
-These instructions are meant to be done solely in the server diretory.
+These instructions are meant to be done solely in the server directory.
 
-Create an .env file with these environment variables (values can be with or without quotes):
+Create a .env file with these environment variables (values can be with or without quotes):
 
 - **DB_USER=** Your database username.
 - **DB_PASSWORD=** Your database password.
@@ -49,9 +49,9 @@ This should set the app listening at [http://localhost:5000](http://localhost:50
 
 #### Client
 
-These instructions are meant to be done solely in the client diretory.
+These instructions are meant to be done solely in the client's directory.
 
-Create an .env file with these environment variables (values can be with or without quotes):
+Create a .env file with these environment variables (values can be with or without quotes):
 
 - **REACT_APP_SERVER_URL=** http://localhost:5000/api
 - **REACT_APP_DEV_URL=** http://localhost:5000
