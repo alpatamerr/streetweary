@@ -3,8 +3,7 @@
 #### Technologies Used: Javascript, PostgreSQL, Express, React, Node.js, HTML5, CSS3 
 
 This is a mock clothing store app focused specifically around streetwear fashion. The site allows you to browse, add items to a cart, create an account, login, checkout, etc.
-
-I wanted to make an online shopping site, because online shopping is such a massive part of our lives and I wanted to try my hand at it. So when the question for what the site would "sell" popped into my head, the first answer was clothing, as I'm into fashion and most of the online shopping I do is on clothing websites (though most of it is the online equivalent of window shopping).
+To be continued...
 
 ## Instructions
 
